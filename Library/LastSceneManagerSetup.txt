@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/idb-22-14-olenuk.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
